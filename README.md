@@ -21,7 +21,7 @@ Make sure you have Python installed on your system. Additionally, ensure you hav
 2. Navigate to the project directory:
 
     ```bash
-    cd electricity-analysis
+    cd electricity
     ```
 
 3. Install the required Python packages:
